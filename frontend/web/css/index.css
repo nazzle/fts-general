@@ -1,0 +1,20 @@
+.center {
+  text-align: center;
+}
+
+.width100{
+  width: 100%;
+}
+
+.margin-bottom-0{
+  margin-bottom: 0;
+}
+
+#form-area {
+  border-right: 1px solid black;
+  padding-bottom: 15px;
+}
+
+#image-area {
+  padding-top: 10px;
+}
